@@ -8,25 +8,25 @@ This repository showcases real-world dashboard projects built using Power BI, SQ
 
 ## 🔥 Projects Included
 
-### 🟢 Apple Sales Analysis
+###🟢 [Apple Sales Analysis](./APPLE SALES ANALYSIS)
 Retail sales performance analysis with revenue & customer insights.
 
-### 🟢 Chocolate Sales Analysis
+### 🟢 [Chocolate Sales Analysis](./CHOCOLATE SALES ANALYSIS)
 Product-level profitability & category performance dashboard.
 
-### 🟢 EV Car Sales Analysis
+### 🟢 [EV Car Sales Analysis](./EV CAR SALES ANALYSIS)
 Electric vehicle sales trend & regional performance insights.
 
-### 🟢 Exam Score Prediction
+### 🟢 [Exam Score Prediction](./EXAM SCORE PREDICATION)
 Student performance analysis with predictive modeling basics.
 
-### 🟢 Expense Analysis
+### 🟢 🟢 [Expense Analysis](./EXPENCE ANALYSIS)
 Operational expense tracking & budget insights dashboard.
 
-### 🟢 ITC Hotel Revenue Analysis
+### 🟢 [ITC Hotel Revenue](./ITC HOTEL REVENUE)
 Hospitality KPIs including Occupancy, ADR & RevPAR.
 
-### 🟢 Diwali Sales Dashboard
+### 🟢 [Diwali Sales Dashboard](./diwali sales dashboard)
 Seasonal sales trends and festival performance analysis.
 
 ---
