@@ -8,7 +8,7 @@ This repository showcases real-world dashboard projects built using Power BI, SQ
 
 ## 🔥 Projects Included
 
-###🟢 [Apple Sales Analysis](./APPLE SALES ANALYSIS)
+###🟢 [Apple_Sales_Analysis](./APPLE SALES ANALYSIS)
 Retail sales performance analysis with revenue & customer insights.
 
 ### 🟢 [Chocolate Sales Analysis](./CHOCOLATE SALES ANALYSIS)
