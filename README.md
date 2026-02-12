@@ -46,6 +46,8 @@ Seasonal sales trends & festival performance analysis.
 
 ### 🟢 [Super Store Sales Analysis](./SUPER%20STORE%20DASHBOARD)
 Retail store performance & sales growth dashboard.
+### 🟢 [Swiggy Dashboard](./SWIGGY%20DASHBOARD)
+Food delivery demand, pricing analysis, rating trends & delivery performance dashboard built using Power BI.
 
 ---
 
