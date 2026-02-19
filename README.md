@@ -6,155 +6,100 @@ I specialize in building interactive dashboards and extracting actionable insigh
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Hi, I'm Raj Kumar  
+## 📊 Data Analyst | Power BI Developer | Business Intelligence Enthusiast  
 
-Aspiring **Data Analyst  with hands-on experience in:
-
-- Interactive Dashboard Development  
-- Data Cleaning & Transformation  
-- KPI & Business Performance Analysis  
-- Data Visualization & Storytelling  
-- Exploratory Data Analysis (EDA)
-
-I focus on solving real-world business problems using data.
+🚀 Passionate about transforming raw data into meaningful business insights through interactive dashboards and data visualization.
 
 ---
 
-## 🛠 Tools & Technologies
+# 🧠 Skills & Tools
 
-- Power BI (DAX, Data Modeling, Dashboard Design)
-- SQL
-- Advanced Excel
-- Python (Pandas, NumPy, Matplotlib)
-- Data Cleaning & Transformation
-- Business Intelligence Reporting
-
----
-
-## 📁 Projects Included
-
-### 🟢 [Walmart Project Analysis](./WALMART%20PROJECT%20ANALYSIS)
-Retail sales performance dashboard analyzing:
-
-- Total Sales & Revenue Trends  
-- Customer & Transaction Insights  
-- Product & City Performance  
-- KPI-driven business analysis  
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=for-the-badge&logo=mysql)
+![Excel](https://img.shields.io/badge/Excel-Data%20Visualization-green?style=for-the-badge&logo=microsoft-excel)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python)
+![Data Analysis](https://img.shields.io/badge/Data-Analytics-orange?style=for-the-badge)
 
 ---
 
-### 🟢 [Weather Impact Flight Analysis](./WEATHER%20IMPACT%20FLIGHT%20ANALYSIS)
-Flight operations dashboard analyzing:
+# 📊 Featured Dashboard Projects
 
-- Weather impact on flight delays  
-- Airline performance analysis  
-- Operational efficiency insights  
-- Delay trend visualization  
+## 🟢 Walmart Sales Analysis Dashboard
 
----
+📷 Preview  
+![Walmart Dashboard](./WALMART%20PROJECT%20ANALYSIS/Screenshot%202026-02-14%20113930.png)
 
-### 🟢 [World Famous Place Dashboard](./WORLD%20FAMOUS%20PLACE%20DASHBOARD)
-Tourism intelligence dashboard showing:
-
-- Global tourism trends  
-- Popular destination analysis  
-- Visitor insights  
-- Location-based performance  
+🔗 [Click to View Project](./WALMART%20PROJECT%20ANALYSIS)
 
 ---
 
-### 🟢 [Apple Sales Analysis](./APPLE%20SALES%20ANALYSIS)
-Sales dashboard analyzing revenue, product performance, and customer trends.
+## 🟢 Weather Impact Flight Analysis Dashboard
+
+📷 Preview  
+![Flight Dashboard](./WEATHER%20IMPACT%20FLIGHT%20ANALYSIS/X-WEATHER%20IMPACT.png)
+
+🔗 [Click to View Project](./WEATHER%20IMPACT%20FLIGHT%20ANALYSIS)
 
 ---
 
-### 🟢 [BMW Sales Analysis](./BMW%20SALES%20ANALYSIS)
-Automobile sales dashboard showing premium car sales trends and revenue insights.
+## 🟢 World Famous Place Dashboard
+
+📷 Preview  
+![Tourism Dashboard](./WORLD%20FAMOUS%20PLACE%20DASHBOARD/Screenshot%202026-02-17%201034.png)
+
+🔗 [Click to View Project](./WORLD%20FAMOUS%20PLACE%20DASHBOARD)
 
 ---
 
-### 🟢 [Chocolate Sales Analysis](./CHOCOLATE%20SALES%20ANALYSIS)
-Product-level profitability and category performance dashboard.
+# 📁 All Projects
+
+- 🔗 [Walmart Project Analysis](./WALMART%20PROJECT%20ANALYSIS)  
+- 🔗 [Weather Impact Flight Analysis](./WEATHER%20IMPACT%20FLIGHT%20ANALYSIS)  
+- 🔗 [World Famous Place Dashboard](./WORLD%20FAMOUS%20PLACE%20DASHBOARD)  
+- 🔗 [Swiggy Dashboard](./SWIGGY%20DASHBOARD)  
+- 🔗 [Super Store Dashboard](./SUPER%20STORE%20DASHBOARD)  
+- 🔗 [ITC Hotel Revenue Dashboard](./ITC%20HOTEL%20REVENUE)  
+- 🔗 [Indian Flight Price Analysis](./INDIAN%20FLIGHT%20PRICE%20ANALYSIS)  
+- 🔗 [HR Attrition Dashboard](./HR%20ATTRITION%20WORKFORCE%20DASHBOARD)  
+- 🔗 [HR Analytics Dashboard](./HR%20ANALYTIC)  
+- 🔗 [Finance Analysis Dashboard](./FINANCE%20ANALYSIS%20DASHBOARD)  
+- 🔗 [Expense Analysis](./EXPENCE%20ANALYSIS)  
+- 🔗 [Exam Score Prediction](./EXAM%20SCORE%20PREDICTION)  
+- 🔗 [EV Car Sales Analysis](./EV%20CAR%20SALES%20ANALYSIS)  
+- 🔗 [Chocolate Sales Analysis](./CHOCOLATE%20SALES%20ANALYSIS)  
+- 🔗 [BMW Sales Analysis](./BMW%20SALES%20ANALYSIS)  
+- 🔗 [Apple Sales Analysis](./APPLE%20SALES%20ANALYSIS)  
+- 🔗 [Swachhta Abhiyaan Dashboard](./SWACHHTA%20ABHIYAAN%20DASHBOARD)  
+- 🔗 [Diwali Sales Dashboard](./diwali%20sales%20dashboard)  
 
 ---
 
-### 🟢 [EV Car Sales Analysis](./EV%20CAR%20SALES%20ANALYSIS)
-Electric vehicle sales dashboard analyzing regional performance and trends.
+# 📈 What I Do
+
+✔ Build Interactive Power BI Dashboards  
+✔ Analyze Business Data  
+✔ Create KPI Reports  
+✔ Clean and Transform Data  
+✔ Generate Business Insights  
 
 ---
 
-### 🟢 [Finance Analysis Dashboard](./FINANCE%20ANALYSIS%20DASHBOARD)
-Financial dashboard tracking revenue, expenses, and profitability KPIs.
+# 🎯 Career Objective
 
----
-
-### 🟢 [HR Analytics Dashboard](./HR%20ANALYTIC)
-Employee performance, workforce insights, and HR metrics dashboard.
-
----
-
-### 🟢 [HR Attrition Workforce Dashboard](./HR%20ATTRITION%20WORKFORCE%20DASHBOARD)
-Employee attrition analysis dashboard identifying workforce trends and retention insights.
-
----
-
-### 🟢 [Indian Flight Price Analysis](./INDIAN%20FLIGHT%20PRICE%20ANALYSIS)
-Flight pricing analysis dashboard showing airfare trends and seasonal insights.
-
----
-
-### 🟢 [ITC Hotel Revenue Dashboard](./ITC%20HOTEL%20REVENUE)
-Hospitality dashboard analyzing:
-
-- Revenue performance  
-- Occupancy rate  
-- ADR & RevPAR metrics  
-
----
-
-### 🟢 [Super Store Sales Dashboard](./SUPER%20STORE%20DASHBOARD)
-Retail performance dashboard analyzing sales, profit, and category trends.
-
----
-
-### 🟢 [Swiggy Dashboard](./SWIGGY%20DASHBOARD)
-Food delivery analytics dashboard analyzing:
-
-- Order trends  
-- Delivery performance  
-- Customer ratings  
-- Pricing insights  
-
----
-
-## 📊 Skills Demonstrated
-
-- Data Visualization  
-- Dashboard Development  
-- KPI Analysis  
-- Business Intelligence  
-- Data Cleaning  
-- Insight Generation  
-
----
-
-## 🎯 Career Objective
-
-Seeking opportunities as a:
+Seeking opportunities as:
 
 - Data Analyst  
 - Power BI Developer  
 - Business Intelligence Analyst  
 
-Where I can apply my analytical skills to solve real business problems.
+---
+
+# 📬 Contact Me
+
+📞 Phone: 7428816421  
+💻 GitHub: https://github.com/singhrsraj2803-eng  
 
 ---
 
-## 📬 Contact Me
-
-- GitHub: https://github.com/singhrsraj2803-eng  
-- Phone: 7428816421  
-
----
-
-⭐ If you like my projects, feel free to star this repository.
+⭐ If you like my projects, please star this repository.
