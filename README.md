@@ -1,109 +1,160 @@
 # 📊 Data Analytics Portfolio – Raj Kumar
 
-Welcome to my Data Analytics & Power BI Project Portfolio.
+Welcome to my Data Analytics & Business Intelligence Project Portfolio.
 
-This repository showcases real-world dashboard projects built using **Power BI, SQL, Excel, and Python** focusing on business insights and KPI-driven analysis.
+I specialize in building interactive dashboards and extracting actionable insights using **Power BI, SQL, Excel, and Python** to support data-driven business decisions.
 
 ---
 
-## 🚀 Projects Included
+## 👨‍💻 About Me
 
-### 🟢 [Apple Sales Analysis](./APPLE%20SALES%20ANALYSIS)
-Retail sales performance analysis with revenue & customer insights.
+Aspiring **Data Analyst  with hands-on experience in:
 
-### 🟢 [BMW Sales Analysis](./BMW%20SALES%20ANALYSIS)
-Premium automobile sales performance & revenue trend dashboard.
+- Interactive Dashboard Development  
+- Data Cleaning & Transformation  
+- KPI & Business Performance Analysis  
+- Data Visualization & Storytelling  
+- Exploratory Data Analysis (EDA)
 
-### 🟢 [Chocolate Sales Analysis](./CHOCOLATE%20SALES%20ANALYSIS)
-Product-level profitability & category performance dashboard.
+I focus on solving real-world business problems using data.
 
-### 🟢 [EV Car Sales Analysis](./EV%20CAR%20SALES%20ANALYSIS)
-Electric vehicle sales trends & regional performance insights.
+---
 
-### 🟢 [Exam Score Prediction](./EXAM%20SCORE%20PREDICATION)
-Student performance analysis with predictive modeling basics.
+## 🛠 Tools & Technologies
 
-### 🟢 [Expense Analysis](./EXPENCE%20ANALYSIS)
-Operational expense tracking & budget insights dashboard.
+- Power BI (DAX, Data Modeling, Dashboard Design)
+- SQL
+- Advanced Excel
+- Python (Pandas, NumPy, Matplotlib)
+- Data Cleaning & Transformation
+- Business Intelligence Reporting
 
-### 🟢 [Finance Analysis Dashboard](./FINANCE%20ANALYSIS%20DASHBOARD)
-Financial KPI tracking & profitability performance dashboard.
+---
 
-### 🟢 [HR Analytics](./HR%20ANALYTIC)
-Employee performance & workforce analytics dashboard.
+## 📁 Projects Included
 
-### 🟢 [HR Attrition Workforce Dashboard](./HR%20ATTRITION%20WORKFORCE%20DASHBOARD)
-Attrition trends & employee retention analysis.
+### 🟢 [Walmart Project Analysis](./WALMART%20PROJECT%20ANALYSIS)
+Retail sales performance dashboard analyzing:
 
-### 🟢 [Indian Flight Price Analysis](./INDIAN%20FLIGHT%20PRICE%20ANALYSIS)
-Airfare trend analysis & seasonal pricing insights.
-
-### 🟢 [ITC Hotel Revenue](./ITC%20HOTEL%20REVENUE)
-Hospitality KPIs including Occupancy, ADR & RevPAR.
-
-### 🟢 [Diwali Sales Dashboard](./diwali%20sales%20dashboard)
-Seasonal sales trends & festival performance analysis.
-
-### 🟢 [Super Store Sales Analysis](./SUPER%20STORE%20DASHBOARD)
-Retail store performance & sales growth dashboard.
-### 🟢 [Swiggy Dashboard](./SWIGGY%20DASHBOARD)
-Food delivery demand, pricing analysis, rating trends & delivery performance dashboard built using Power BI.
-### 🟢 [Walmart Sales Analysis](./WALMART%20PROJECT%20ANALYSIS)
-Retail sales performance dashboard built using Power BI.
-
-📷 Dashboard Preview:  
-![Walmart Dashboard](./WALMART%20PROJECT%20ANALYSIS/Screenshot%202026-02-14%20113930.png)
-
-📄 Project Report:  
-[View PDF](./WALMART%20PROJECT%20ANALYSIS/walmart%20project.pdf)
+- Total Sales & Revenue Trends  
+- Customer & Transaction Insights  
+- Product & City Performance  
+- KPI-driven business analysis  
 
 ---
 
 ### 🟢 [Weather Impact Flight Analysis](./WEATHER%20IMPACT%20FLIGHT%20ANALYSIS)
-Flight operations analysis with weather impact insights using Power BI & data analysis.
+Flight operations dashboard analyzing:
 
-📷 Dashboard Preview:  
-![Flight Dashboard](./WEATHER%20IMPACT%20FLIGHT%20ANALYSIS/X-WEATHER%20IMPACT.png)
-
-📄 Project File:  
-[View Project Details](./WEATHER%20IMPACT%20FLIGHT%20ANALYSIS/flight%20operation%20&%20weather%20impact.pdf)
+- Weather impact on flight delays  
+- Airline performance analysis  
+- Operational efficiency insights  
+- Delay trend visualization  
 
 ---
 
 ### 🟢 [World Famous Place Dashboard](./WORLD%20FAMOUS%20PLACE%20DASHBOARD)
-Tourism intelligence dashboard showing global tourist trends and place insights.
+Tourism intelligence dashboard showing:
 
-📷 Dashboard Preview:  
-![Tourism Dashboard](./WORLD%20FAMOUS%20PLACE%20DASHBOARD/Screenshot%202026-02-17%201034.png)
-
-📄 Project Details:  
-[View Project Files](./WORLD%20FAMOUS%20PLACE%20DASHBOARD)
-
----
-
-## 🛠 Tools & Skills Used
-
-- Power BI (DAX, Data Modeling, KPI Design)
-- SQL
-- Advanced Excel
-- Python (Pandas, EDA)
-- Business Intelligence Reporting
-- Data Cleaning & Transformation
+- Global tourism trends  
+- Popular destination analysis  
+- Visitor insights  
+- Location-based performance  
 
 ---
 
-## 📌 Key Highlights
-
-✔ Real-world business dashboards  
-✔ KPI-driven reporting  
-✔ Data modeling & relationship building  
-✔ Insight extraction for decision making  
+### 🟢 [Apple Sales Analysis](./APPLE%20SALES%20ANALYSIS)
+Sales dashboard analyzing revenue, product performance, and customer trends.
 
 ---
 
-## 📬 Contact
+### 🟢 [BMW Sales Analysis](./BMW%20SALES%20ANALYSIS)
+Automobile sales dashboard showing premium car sales trends and revenue insights.
 
-Actively seeking **Data Analyst / Power BI Developer roles & internships**.
+---
 
-GitHub:  
-https://github.com/singhrsraj2803-eng/Data-Analytics-Portfolio
+### 🟢 [Chocolate Sales Analysis](./CHOCOLATE%20SALES%20ANALYSIS)
+Product-level profitability and category performance dashboard.
+
+---
+
+### 🟢 [EV Car Sales Analysis](./EV%20CAR%20SALES%20ANALYSIS)
+Electric vehicle sales dashboard analyzing regional performance and trends.
+
+---
+
+### 🟢 [Finance Analysis Dashboard](./FINANCE%20ANALYSIS%20DASHBOARD)
+Financial dashboard tracking revenue, expenses, and profitability KPIs.
+
+---
+
+### 🟢 [HR Analytics Dashboard](./HR%20ANALYTIC)
+Employee performance, workforce insights, and HR metrics dashboard.
+
+---
+
+### 🟢 [HR Attrition Workforce Dashboard](./HR%20ATTRITION%20WORKFORCE%20DASHBOARD)
+Employee attrition analysis dashboard identifying workforce trends and retention insights.
+
+---
+
+### 🟢 [Indian Flight Price Analysis](./INDIAN%20FLIGHT%20PRICE%20ANALYSIS)
+Flight pricing analysis dashboard showing airfare trends and seasonal insights.
+
+---
+
+### 🟢 [ITC Hotel Revenue Dashboard](./ITC%20HOTEL%20REVENUE)
+Hospitality dashboard analyzing:
+
+- Revenue performance  
+- Occupancy rate  
+- ADR & RevPAR metrics  
+
+---
+
+### 🟢 [Super Store Sales Dashboard](./SUPER%20STORE%20DASHBOARD)
+Retail performance dashboard analyzing sales, profit, and category trends.
+
+---
+
+### 🟢 [Swiggy Dashboard](./SWIGGY%20DASHBOARD)
+Food delivery analytics dashboard analyzing:
+
+- Order trends  
+- Delivery performance  
+- Customer ratings  
+- Pricing insights  
+
+---
+
+## 📊 Skills Demonstrated
+
+- Data Visualization  
+- Dashboard Development  
+- KPI Analysis  
+- Business Intelligence  
+- Data Cleaning  
+- Insight Generation  
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as a:
+
+- Data Analyst  
+- Power BI Developer  
+- Business Intelligence Analyst  
+
+Where I can apply my analytical skills to solve real business problems.
+
+---
+
+## 📬 Contact Me
+
+- GitHub: https://github.com/singhrsraj2803-eng  
+- Phone: 7428816421  
+
+---
+
+⭐ If you like my projects, feel free to star this repository.
