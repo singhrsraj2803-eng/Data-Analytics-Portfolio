@@ -34,12 +34,12 @@ I specialize in building interactive dashboards and extracting actionable insigh
 
 ---
 
-## 🟢 Weather Impact Flight Analysis Dashboard
+## 🟢 Indian  Flight Analysis Dashboard
 
 📷 Preview  
-![Flight Dashboard](./WEATHER%20IMPACT%20FLIGHT%20ANALYSIS/X-WEATHER%20IMPACT.png)
+![Indian Flight Price Analysis](./INDIAN%20FLIGHT%20PRICE%20ANALYSIS) 
 
-🔗 [Click to View Project](./WEATHER%20IMPACT%20FLIGHT%20ANALYSIS)
+🔗 [Click to View Project](./INDIAN%20FLIGHT%20PRICE%20ANALYSIS) 
 
 ---
 
