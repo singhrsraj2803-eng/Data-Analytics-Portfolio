@@ -48,6 +48,36 @@ Seasonal sales trends & festival performance analysis.
 Retail store performance & sales growth dashboard.
 ### 🟢 [Swiggy Dashboard](./SWIGGY%20DASHBOARD)
 Food delivery demand, pricing analysis, rating trends & delivery performance dashboard built using Power BI.
+### 🟢 [Walmart Sales Analysis](./WALMART%20PROJECT%20ANALYSIS)
+Retail sales performance dashboard built using Power BI.
+
+📷 Dashboard Preview:  
+![Walmart Dashboard](./WALMART%20PROJECT%20ANALYSIS/Screenshot%202026-02-14%20113930.png)
+
+📄 Project Report:  
+[View PDF](./WALMART%20PROJECT%20ANALYSIS/walmart%20project.pdf)
+
+---
+
+### 🟢 [Weather Impact Flight Analysis](./WEATHER%20IMPACT%20FLIGHT%20ANALYSIS)
+Flight operations analysis with weather impact insights using Power BI & data analysis.
+
+📷 Dashboard Preview:  
+![Flight Dashboard](./WEATHER%20IMPACT%20FLIGHT%20ANALYSIS/X-WEATHER%20IMPACT.png)
+
+📄 Project File:  
+[View Project Details](./WEATHER%20IMPACT%20FLIGHT%20ANALYSIS/flight%20operation%20&%20weather%20impact.pdf)
+
+---
+
+### 🟢 [World Famous Place Dashboard](./WORLD%20FAMOUS%20PLACE%20DASHBOARD)
+Tourism intelligence dashboard showing global tourist trends and place insights.
+
+📷 Dashboard Preview:  
+![Tourism Dashboard](./WORLD%20FAMOUS%20PLACE%20DASHBOARD/Screenshot%202026-02-17%201034.png)
+
+📄 Project Details:  
+[View Project Files](./WORLD%20FAMOUS%20PLACE%20DASHBOARD)
 
 ---
 
