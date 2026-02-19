@@ -7,7 +7,7 @@ I specialize in building interactive dashboards and extracting actionable insigh
 ---
 
 # 👋 Hi, I'm Raj Kumar  
-## 📊 Data Analyst | Power BI Developer | Business Intelligence Enthusiast  
+## 📊 Data Analyst | Business Intelligence Enthusiast  
 
 🚀 Passionate about transforming raw data into meaningful business insights through interactive dashboards and data visualization.
 
