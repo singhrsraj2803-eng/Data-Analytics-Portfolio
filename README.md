@@ -2,7 +2,7 @@
 
 Welcome to my Data Analytics & Business Intelligence Project Portfolio.
 
-I specialize in building interactive dashboards and extracting actionable insights using **Power BI, SQL, Excel, and Python** to support data-driven business decisions.
+I specialize in building interactive dashboards and extracting actionable insights using **Power BI, SQL, Excel,MS Word,Power Point,Adv Excel and Python** to support data-driven business decisions.
 
 ---
 
@@ -15,11 +15,14 @@ I specialize in building interactive dashboards and extracting actionable insigh
 
 # 🧠 Skills & Tools
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
-![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=for-the-badge&logo=mysql)
-![Excel](https://img.shields.io/badge/Excel-Data%20Visualization-green?style=for-the-badge&logo=microsoft-excel)
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python)
-![Data Analysis](https://img.shields.io/badge/Data-Analytics-orange?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi) 
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=for-the-badge&logo=mysql) 
+![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoft-excel) 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge&logo=python) 
+![MS Word](https://img.shields.io/badge/MS%20Word-Documentation-blue?style=for-the-badge&logo=microsoft-word) 
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Presentation-orange?style=for-the-badge&logo=microsoft-powerpoint) 
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-orange?style=for-the-badge)
+
 
 ---
 
